@@ -10,7 +10,7 @@
 - 💡 Skilled in **Python | JavaScript | Java | SQL | HTML | CSS**  
 - 🛠️ Tools & Frameworks: **React, Node.js, Express, Bootstrap, Git, TensorFlow, scikit-learn**  
 - 🚀 Currently exploring **AI/ML model deployment & Web Development**  
-- 📫 Reach me at: **[your.email@example.com]** | [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+- 📫 Reach me at: **[gurugubelliharish090104@gmail.com]**
 
 ---
 
